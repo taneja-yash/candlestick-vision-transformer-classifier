@@ -1,0 +1,25 @@
+Metadata-Version: 2.4
+Name: 10-06-2025-candlestick
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.13
+Description-Content-Type: text/markdown
+Requires-Dist: albumentations>=2.0.8
+Requires-Dist: colorama>=0.4.6
+Requires-Dist: dash>=3.0.4
+Requires-Dist: einops>=0.8.1
+Requires-Dist: litellm>=1.72.6
+Requires-Dist: matplotlib>=3.10.3
+Requires-Dist: mss>=10.0.0
+Requires-Dist: numpy>=2.3.0
+Requires-Dist: ollama>=0.5.1
+Requires-Dist: onnx>=1.18.0
+Requires-Dist: onnxscript>=0.3.2
+Requires-Dist: opencv-python<=4.11.0
+Requires-Dist: pillow>=11.2.1
+Requires-Dist: plotly>=6.1.2
+Requires-Dist: scikit-learn>=1.7.0
+Requires-Dist: torch>=2.7.1
+Requires-Dist: torchinfo>=1.8.0
+Requires-Dist: torchvision>=0.22.1
+Requires-Dist: yfinance>=0.2.63

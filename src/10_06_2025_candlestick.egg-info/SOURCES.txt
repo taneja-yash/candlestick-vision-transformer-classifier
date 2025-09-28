@@ -1,0 +1,12 @@
+pyproject.toml
+src/10_06_2025_candlestick.egg-info/PKG-INFO
+src/10_06_2025_candlestick.egg-info/SOURCES.txt
+src/10_06_2025_candlestick.egg-info/dependency_links.txt
+src/10_06_2025_candlestick.egg-info/requires.txt
+src/10_06_2025_candlestick.egg-info/top_level.txt
+src/utils/__init__.py
+src/utils/annotator.py
+src/utils/candlesticks.py
+src/utils/createlabels.py
+src/utils/datageneration_screengrab.py
+src/utils/datageneration_writeimages.py
