@@ -24,5 +24,4 @@ This project demonstrates the application of state-of-the-art deep learning tech
 
 ## Author
 Yash Taneja
-- Master of Science in Business Analytics, University of Texas at Dallas
 - [LinkedIn](https://linkedin.com/in/yash-taneja-07) | [GitHub](https://github.com/taneja-yash)
